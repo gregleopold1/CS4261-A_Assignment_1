@@ -6,7 +6,7 @@ body {
   width: 100%;
   min-height: 100%;
   background: linear-gradient(-45deg, rgba(0, 0, 0, 0.3), rgba(0, 40, 105, 0.8)),
-    url("./Static/img/2.jpg");
+    url("./Static/img/tiger2.png");
   background-attachment: fixed;
   background-size: cover;
 }
