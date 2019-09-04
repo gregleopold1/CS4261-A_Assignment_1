@@ -6,6 +6,8 @@ import firebase from "firebase/app";
 import "firebase/database";
 import "./App.css";
 
+//This is Steven Corrales from CS4261 modifying your first programming assignment with a comment. scorrales3 903353126.
+
 class App extends React.Component {
   constructor(props) {
     super(props);
